@@ -1,3 +1,10 @@
 {
-
+    "supporters": {
+        "name1": 0,
+        "name2": 1,
+        "name3": 2
+    },
+    "supporters_pending_approval": {
+        "name7": 0
+    }
 }
